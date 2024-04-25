@@ -1,0 +1,22 @@
+.image{
+    height: 200px;
+    width: auto;
+}
+.box{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+.head{
+    padding: 20px 0;
+    width: 100%;
+    background-color: rgb(141, 221, 146);
+    display: flex;
+    align-items: center;
+    gap: 20px;
+}
+.logo{
+    height: 100px;
+    width: auto;
+}
